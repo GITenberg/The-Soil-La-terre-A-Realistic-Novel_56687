@@ -1,5 +1,8 @@
 _repo: The-Soil-La-terre-A-Realistic-Novel_56687
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56687-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '3192'
     url: http://www.gutenberg.org/2009/agents/3192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56687#The-Soil-La-terre-A-Realistic-Novel
 gutenberg_issued: '2018-03-06'
 gutenberg_type: Text
 identifiers:
